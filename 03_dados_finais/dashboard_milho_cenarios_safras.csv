@@ -1,0 +1,19 @@
+faixa_chuva,chuva_ciclo,faixa_oni,oni_ciclo,safra,cultura_dashboard,ano_centralizado,chuva_total_ano,oni_medio_ano,cenario_nome,melhor_modelo_linear,rendimento_previsto,melhor_modelo_logistico,prob_rendimento_alto,classe_prevista
+Alta,1650.4127915602462,Negativo,-1,1ª safra,Milho 1ª safra,14,1650.4127915602462,-1,Alta | Negativo,Clima da safra,7761.858831914373,Clima da safra,0.6579230931365506,1
+Alta,1650.4127915602462,Neutro,0,1ª safra,Milho 1ª safra,14,1650.4127915602462,0,Alta | Neutro,Clima da safra,7663.818973330558,Clima da safra,0.635690609666618,1
+Alta,1650.4127915602462,Positivo,1,1ª safra,Milho 1ª safra,14,1650.4127915602462,1,Alta | Positivo,Clima da safra,7565.779114746743,Clima da safra,0.612863417765453,1
+Baixa,1219.5881281039294,Negativo,-1,1ª safra,Milho 1ª safra,14,1219.5881281039294,-1,Baixa | Negativo,Clima da safra,6824.793004424257,Clima da safra,0.4640426402326564,0
+Baixa,1219.5881281039294,Neutro,0,1ª safra,Milho 1ª safra,14,1219.5881281039294,0,Baixa | Neutro,Clima da safra,6726.753145840442,Clima da safra,0.4399359221331802,0
+Baixa,1219.5881281039294,Positivo,1,1ª safra,Milho 1ª safra,14,1219.5881281039294,1,Baixa | Positivo,Clima da safra,6628.713287256627,Clima da safra,0.41610924351387596,0
+Média,1408.4830059475369,Negativo,-1,1ª safra,Milho 1ª safra,14,1408.4830059475369,-1,Média | Negativo,Clima da safra,7235.649090506041,Clima da safra,0.5512844737330088,1
+Média,1408.4830059475369,Neutro,0,1ª safra,Milho 1ª safra,14,1408.4830059475369,0,Média | Neutro,Clima da safra,7137.609231922226,Clima da safra,0.5271028804720186,1
+Média,1408.4830059475369,Positivo,1,1ª safra,Milho 1ª safra,14,1408.4830059475369,1,Média | Positivo,Clima da safra,7039.569373338411,Clima da safra,0.502793454203017,1
+Alta,1385.6948054138272,Negativo,-1,2ª safra,Milho 2ª safra,14,1385.6948054138272,-1,Alta | Negativo,Clima da safra não linear + tendência,4252.902802769542,Clima da safra,0.2636896049031487,0
+Alta,1385.6948054138272,Neutro,0,2ª safra,Milho 2ª safra,14,1385.6948054138272,0,Alta | Neutro,Clima da safra não linear + tendência,5018.429152703732,Clima da safra,0.5421078191228794,1
+Alta,1385.6948054138272,Positivo,1,2ª safra,Milho 2ª safra,14,1385.6948054138272,1,Alta | Positivo,Clima da safra não linear + tendência,5783.955502637922,Clima da safra,0.7964968065809848,1
+Baixa,965.8851235161225,Negativo,-1,2ª safra,Milho 2ª safra,14,965.8851235161225,-1,Baixa | Negativo,Clima da safra não linear + tendência,3863.1882712708093,Clima da safra,0.2240013785968857,0
+Baixa,965.8851235161225,Neutro,0,2ª safra,Milho 2ª safra,14,965.8851235161225,0,Baixa | Neutro,Clima da safra não linear + tendência,4628.714621204999,Clima da safra,0.48830506315806554,0
+Baixa,965.8851235161225,Positivo,1,2ª safra,Milho 2ª safra,14,965.8851235161225,1,Baixa | Positivo,Clima da safra não linear + tendência,5394.240971139189,Clima da safra,0.7593139562547336,1
+Média,1166.9202167590458,Negativo,-1,2ª safra,Milho 2ª safra,14,1166.9202167590458,-1,Média | Negativo,Clima da safra não linear + tendência,4097.318338254191,Clima da safra,0.24245911233807538,0
+Média,1166.9202167590458,Neutro,0,2ª safra,Milho 2ª safra,14,1166.9202167590458,0,Média | Neutro,Clima da safra não linear + tendência,4862.844688188381,Clima da safra,0.5141127080995548,1
+Média,1166.9202167590458,Positivo,1,2ª safra,Milho 2ª safra,14,1166.9202167590458,1,Média | Positivo,Clima da safra não linear + tendência,5628.371038122571,Clima da safra,0.777676324911757,1

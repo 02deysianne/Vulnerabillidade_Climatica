@@ -1,0 +1,5 @@
+streamlit>=1.58,<2
+pandas>=2.2,<4
+plotly>=6.8,<7
+altair>=6,<7
+matplotlib>=3.9,<4

@@ -1,0 +1,46 @@
+faixa_chuva,chuva_total_ano,faixa_oni,oni_medio_ano,cultura,cenario_nome,melhor_modelo_linear,rendimento_previsto,melhor_modelo_logistico,prob_rendimento_alto,classe_prevista,limiar_rendimento
+Alta,2002.560814875406,Negativo,-1,Cevada,Alta | Negativo,Linear com ONI,3742.866206864555,Logística com ONI,0.7682404482683376,1,3485.525078369906
+Alta,2002.560814875406,Neutro,0,Cevada,Alta | Neutro,Linear com ONI,3496.7384235651552,Logística com ONI,0.5788819619126101,1,3485.525078369906
+Alta,2002.560814875406,Positivo,1,Cevada,Alta | Positivo,Linear com ONI,3250.6106402657556,Logística com ONI,0.36307753893989303,0,3485.525078369906
+Baixa,1529.0530621767045,Negativo,-1,Cevada,Baixa | Negativo,Linear com ONI,3742.866206864555,Logística com ONI,0.7682404482683376,1,3485.525078369906
+Baixa,1529.0530621767045,Neutro,0,Cevada,Baixa | Neutro,Linear com ONI,3496.7384235651552,Logística com ONI,0.5788819619126101,1,3485.525078369906
+Baixa,1529.0530621767045,Positivo,1,Cevada,Baixa | Positivo,Linear com ONI,3250.6106402657556,Logística com ONI,0.36307753893989303,0,3485.525078369906
+Média,1767.6133156442024,Negativo,-1,Cevada,Média | Negativo,Linear com ONI,3742.866206864555,Logística com ONI,0.7682404482683376,1,3485.525078369906
+Média,1767.6133156442024,Neutro,0,Cevada,Média | Neutro,Linear com ONI,3496.7384235651552,Logística com ONI,0.5788819619126101,1,3485.525078369906
+Média,1767.6133156442024,Positivo,1,Cevada,Média | Positivo,Linear com ONI,3250.6106402657556,Logística com ONI,0.36307753893989303,0,3485.525078369906
+Alta,2017.2410983011641,Negativo,-1,Milho 1ª safra,Alta | Negativo,Linear com chuva,7590.407129519295,Logística com chuva,0.62122097703318,1,7192.82495309568
+Alta,2017.2410983011641,Neutro,0,Milho 1ª safra,Alta | Neutro,Linear com chuva,7590.407129519295,Logística com chuva,0.62122097703318,1,7192.82495309568
+Alta,2017.2410983011641,Positivo,1,Milho 1ª safra,Alta | Positivo,Linear com chuva,7590.407129519295,Logística com chuva,0.62122097703318,1,7192.82495309568
+Baixa,1460.3075052845861,Negativo,-1,Milho 1ª safra,Baixa | Negativo,Linear com chuva,6730.021596419033,Logística com chuva,0.45762491437405545,0,7192.82495309568
+Baixa,1460.3075052845861,Neutro,0,Milho 1ª safra,Baixa | Neutro,Linear com chuva,6730.021596419033,Logística com chuva,0.45762491437405545,0,7192.82495309568
+Baixa,1460.3075052845861,Positivo,1,Milho 1ª safra,Baixa | Positivo,Linear com chuva,6730.021596419033,Logística com chuva,0.45762491437405545,0,7192.82495309568
+Média,1723.513226715378,Negativo,-1,Milho 1ª safra,Média | Negativo,Linear com chuva,7136.638108311736,Logística com chuva,0.5359877834808708,1,7192.82495309568
+Média,1723.513226715378,Neutro,0,Milho 1ª safra,Média | Neutro,Linear com chuva,7136.638108311736,Logística com chuva,0.5359877834808708,1,7192.82495309568
+Média,1723.513226715378,Positivo,1,Milho 1ª safra,Média | Positivo,Linear com chuva,7136.638108311736,Logística com chuva,0.5359877834808708,1,7192.82495309568
+Alta,2000.2531304562965,Negativo,-1,Milho 2ª safra,Alta | Negativo,Linear com chuva + ONI,4055.2063145237685,Logística com chuva,0.5920711987519011,1,4588.049930925597
+Alta,2000.2531304562965,Neutro,0,Milho 2ª safra,Alta | Neutro,Linear com chuva + ONI,4680.103721709104,Logística com chuva,0.5920711987519011,1,4588.049930925597
+Alta,2000.2531304562965,Positivo,1,Milho 2ª safra,Alta | Positivo,Linear com chuva + ONI,5305.001128894441,Logística com chuva,0.5920711987519011,1,4588.049930925597
+Baixa,1420.3605359364778,Negativo,-1,Milho 2ª safra,Baixa | Negativo,Linear com chuva + ONI,3793.640640391434,Logística com chuva,0.46061780560508986,0,4588.049930925597
+Baixa,1420.3605359364778,Neutro,0,Milho 2ª safra,Baixa | Neutro,Linear com chuva + ONI,4418.53804757677,Logística com chuva,0.46061780560508986,0,4588.049930925597
+Baixa,1420.3605359364778,Positivo,1,Milho 2ª safra,Baixa | Positivo,Linear com chuva + ONI,5043.435454762106,Logística com chuva,0.46061780560508986,0,4588.049930925597
+Média,1687.329507827759,Negativo,-1,Milho 2ª safra,Média | Negativo,Linear com chuva + ONI,3914.05935200299,Logística com chuva,0.5215674538128928,1,4588.049930925597
+Média,1687.329507827759,Neutro,0,Milho 2ª safra,Média | Neutro,Linear com chuva + ONI,4538.956759188326,Logística com chuva,0.5215674538128928,1,4588.049930925597
+Média,1687.329507827759,Positivo,1,Milho 2ª safra,Média | Positivo,Linear com chuva + ONI,5163.854166373662,Logística com chuva,0.5215674538128928,1,4588.049930925597
+Alta,1994.4372664865327,Negativo,-1,Soja,Alta | Negativo,Linear com chuva,3176.3912005016064,Logística com chuva,0.6362194695898856,1,3109.885425889854
+Alta,1994.4372664865327,Neutro,0,Soja,Alta | Neutro,Linear com chuva,3176.3912005016064,Logística com chuva,0.6362194695898856,1,3109.885425889854
+Alta,1994.4372664865327,Positivo,1,Soja,Alta | Positivo,Linear com chuva,3176.3912005016064,Logística com chuva,0.6362194695898856,1,3109.885425889854
+Baixa,1429.3413494825363,Negativo,-1,Soja,Baixa | Negativo,Linear com chuva,3033.8488682802486,Logística com chuva,0.5452162028192246,1,3109.885425889854
+Baixa,1429.3413494825363,Neutro,0,Soja,Baixa | Neutro,Linear com chuva,3033.8488682802486,Logística com chuva,0.5452162028192246,1,3109.885425889854
+Baixa,1429.3413494825363,Positivo,1,Soja,Baixa | Positivo,Linear com chuva,3033.8488682802486,Logística com chuva,0.5452162028192246,1,3109.885425889854
+Média,1694.0129744211831,Negativo,-1,Soja,Média | Negativo,Linear com chuva,3100.6108277217363,Logística com chuva,0.5886120136244222,1,3109.885425889854
+Média,1694.0129744211831,Neutro,0,Soja,Média | Neutro,Linear com chuva,3100.6108277217363,Logística com chuva,0.5886120136244222,1,3109.885425889854
+Média,1694.0129744211831,Positivo,1,Soja,Média | Positivo,Linear com chuva,3100.6108277217363,Logística com chuva,0.5886120136244222,1,3109.885425889854
+Alta,2040.4351488749187,Negativo,-1,Trigo,Alta | Negativo,Linear com ONI,2581.10143065039,Logística com ONI,0.5458205164112497,1,2503.8984805109017
+Alta,2040.4351488749187,Neutro,0,Trigo,Alta | Neutro,Linear com ONI,2507.915691554878,Logística com ONI,0.48649457934089835,0,2503.8984805109017
+Alta,2040.4351488749187,Positivo,1,Trigo,Alta | Positivo,Linear com ONI,2434.729952459366,Logística com ONI,0.42754676033112465,0,2503.8984805109017
+Baixa,1484.6972430774142,Negativo,-1,Trigo,Baixa | Negativo,Linear com ONI,2581.10143065039,Logística com ONI,0.5458205164112497,1,2503.8984805109017
+Baixa,1484.6972430774142,Neutro,0,Trigo,Baixa | Neutro,Linear com ONI,2507.915691554878,Logística com ONI,0.48649457934089835,0,2503.8984805109017
+Baixa,1484.6972430774142,Positivo,1,Trigo,Baixa | Positivo,Linear com ONI,2434.729952459366,Logística com ONI,0.42754676033112465,0,2503.8984805109017
+Média,1771.744070110899,Negativo,-1,Trigo,Média | Negativo,Linear com ONI,2581.10143065039,Logística com ONI,0.5458205164112497,1,2503.8984805109017
+Média,1771.744070110899,Neutro,0,Trigo,Média | Neutro,Linear com ONI,2507.915691554878,Logística com ONI,0.48649457934089835,0,2503.8984805109017
+Média,1771.744070110899,Positivo,1,Trigo,Média | Positivo,Linear com ONI,2434.729952459366,Logística com ONI,0.42754676033112465,0,2503.8984805109017

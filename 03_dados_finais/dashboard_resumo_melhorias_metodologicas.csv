@@ -1,0 +1,11 @@
+ordem,etapa,antes,versao_final
+1,Milho,Milho agregado,1ª e 2ª safras separadas desde a base principal
+2,Precipitação,Chuva anual,Chuva anual + chuva específica do ciclo do milho
+3,ENSO,ONI médio anual,ONI anual + ONI aproximado da janela da safra
+4,Correlação,Pearson,Pearson + Spearman nas análises sazonais do milho
+5,Modelagem,Avaliação na mesma base,Validação temporal: 2010-2021 treino e 2022-2024 teste
+6,Produtividade,Média simples em alguns resumos,Rendimento estadual ponderado por área colhida
+7,Tendência temporal,Não considerada,Incluída nos modelos sazonais avançados
+8,Não linearidade,Relação linear,Modelo com termo quadrático de chuva para o milho
+9,Classificação,Acurácia,"Acurácia, sensibilidade, especificidade, balanceada e baseline"
+10,IVC,Fases ENSO com grafia inconsistente,Fases padronizadas e cinco grupos produtivos

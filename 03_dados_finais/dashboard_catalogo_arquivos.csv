@@ -1,0 +1,29 @@
+arquivo,secao_dashboard,descricao
+base_final_produtividade_clima_safras.csv,Base principal,Base municipal 2010-2024 com cinco grupos e milho separado
+base_etapa1_produtividade_chuva.csv,Etapa inicial,Base de produtividade e chuva já com milho separado
+base_etapa2_produtividade_chuva_oni.csv,ENSO,"Base de produtividade, chuva e ONI já com milho separado"
+dashboard_mapa_municipal.csv,Mapas,Dados anuais municipais para mapas interativos
+dashboard_resumo_projeto.csv,Visão geral,Cards gerais do projeto
+dashboard_resumo_geral_cultura.csv,Visão geral,Resumo dos cinco grupos produtivos
+dashboard_serie_anual_cultura.csv,Evolução temporal,"Série anual de rendimento, produção, chuva e ONI"
+dashboard_resumo_enso_cultura.csv,ENSO,Comparação dos grupos por fase ENSO anual
+dashboard_correlacoes_culturas.csv,Correlação,Pearson e Spearman anuais por grupo
+dashboard_validacao_linear_teste.csv,Modelagem,Validação temporal dos modelos lineares gerais
+dashboard_validacao_logistica_teste.csv,Modelagem,Validação temporal dos classificadores gerais
+dashboard_melhor_modelo_linear.csv,Modelagem,Melhor regressão linear por grupo
+dashboard_melhor_modelo_logistico.csv,Modelagem,Melhor classificador por grupo
+dashboard_teste_previsoes.csv,Modelagem,Previsões lineares em formato largo para o dashboard
+dashboard_teste_previsoes_detalhadas.csv,Modelagem,Previsões lineares e logísticas em formato longo
+dashboard_cenarios_climaticos.csv,Cenários,Cenários anuais de chuva e ONI para os cinco grupos
+dashboard_indice_vulnerabilidade.csv,IVC,IVC municipal para os cinco grupos produtivos
+dashboard_ivc_frequencia_classes.csv,IVC,Distribuição das classes de vulnerabilidade
+dashboard_ivc_resumo_grupos.csv,IVC,Resumo estatístico do IVC por grupo
+base_etapa4_milho_safras_clima_sazonal.csv,Milho por safra,Base do milho com chuva e ONI específicos do ciclo
+dashboard_milho_safras_participacao.csv,Milho por safra,Participação da 1ª e 2ª safra
+dashboard_milho_correlacoes_safras.csv,Milho por safra,Pearson e Spearman usando clima anual e do ciclo
+dashboard_milho_validacao_linear_safras.csv,Milho por safra,Validação dos modelos lineares sazonais
+dashboard_milho_validacao_logistica_safras.csv,Milho por safra,Validação dos classificadores sazonais
+dashboard_milho_cenarios_safras.csv,Milho por safra,Cenários de clima específicos da 1ª e 2ª safras
+dashboard_milho_guarapuava_clima_safras.csv,Guarapuava,Milho em Guarapuava com clima por ciclo
+dashboard_chuva_mensal_guarapuava.csv,Guarapuava,Chuva mensal de Guarapuava
+dashboard_resumo_melhorias_metodologicas.csv,Metodologia,Linha de evolução metodológica do projeto

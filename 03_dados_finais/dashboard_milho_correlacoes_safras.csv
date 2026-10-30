@@ -1,0 +1,17 @@
+safra,variavel,rotulo_variavel,metodo,correlacao,p_value,n
+1ª safra,chuva_ciclo,Chuva do ciclo,pearson,0.26930999695825547,8.053871964923462e-83,4939
+1ª safra,chuva_ciclo,Chuva do ciclo,spearman,0.31754851951226143,4.0057169726492576e-116,4939
+1ª safra,chuva_total_ano,Chuva anual,pearson,0.24791370012927982,4.548661767198965e-70,4939
+1ª safra,chuva_total_ano,Chuva anual,spearman,0.2583634276989077,3.8008999165792246e-76,4939
+1ª safra,oni_ciclo,ONI do ciclo,pearson,0.10836926069161654,2.23123732102718e-14,4939
+1ª safra,oni_ciclo,ONI do ciclo,spearman,0.13419026835216377,2.7690498750270395e-21,4939
+1ª safra,oni_medio_ano,ONI anual,pearson,0.11296401078689965,1.6876835642494405e-15,4939
+1ª safra,oni_medio_ano,ONI anual,spearman,0.10268912942205119,4.686532484113117e-13,4939
+2ª safra,chuva_ciclo,Chuva do ciclo,pearson,0.16891227431325428,9.605071582742934e-34,5067
+2ª safra,chuva_ciclo,Chuva do ciclo,spearman,0.17316946809174807,2.0981259063649288e-35,5067
+2ª safra,chuva_total_ano,Chuva anual,pearson,0.2446674904569641,5.851268757041805e-70,5067
+2ª safra,chuva_total_ano,Chuva anual,spearman,0.24723641134884658,1.920491180972266e-71,5067
+2ª safra,oni_ciclo,ONI do ciclo,pearson,0.3591603539905126,3.931790174790324e-154,5067
+2ª safra,oni_ciclo,ONI do ciclo,spearman,0.3952677101879626,4.038352850659965e-189,5067
+2ª safra,oni_medio_ano,ONI anual,pearson,0.35356638910789684,4.211150965858125e-149,5067
+2ª safra,oni_medio_ano,ONI anual,spearman,0.34352226437040023,2.5282358016586765e-140,5067
